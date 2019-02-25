@@ -1,4 +1,4 @@
-# Javascript 面向对象
+# Javascript 面向对象 
 
 ## 数据类型
 
